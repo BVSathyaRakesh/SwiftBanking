@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5A5788A9-EB2B-485B-965C-E74F5C3D70E3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4D4B64E-B831-4035-B076-340F40473B6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppzillonBanking/Screens/Transfers/ViewModel/TransferViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getBeneficiariesData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D4D4B64E-B831-4035-B076-340F40473B6D - ca50813f202f71d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;AppzillonBanking.Beneficiaries&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in AppzillonBanking.TransferViewModel.getBeneficiariesData(completion: (Swift.Optional&lt;Swift.Array&lt;AppzillonBanking.BeneficiariesData&gt;&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "AppzillonBanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvsrakesh.kumar/Documents/Swift/AppzillonBanking/AppzillonBanking/Screens/Transfers/ViewModel/TransferViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "245">
+               </Location>
+               <Location
+                  uuid = "D4D4B64E-B831-4035-B076-340F40473B6D - ca50813f202f71d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;AppzillonBanking.Beneficiaries&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; () in AppzillonBanking.TransferViewModel.getBeneficiariesData(completion: (Swift.Optional&lt;Swift.Array&lt;AppzillonBanking.BeneficiariesData&gt;&gt;, Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "AppzillonBanking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bvsrakesh.kumar/Documents/Swift/AppzillonBanking/AppzillonBanking/Screens/Transfers/ViewModel/TransferViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "295">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "485A2077-8EC7-45B7-8854-17DB205E63F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppzillonBanking/Screens/Transfers/TransferViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC9E85E2-055B-4977-A6CA-7C75D383E19D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppzillonBanking/Screens/Locations/LocationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "customAnnotations()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D26D80D2-44B4-4C8A-9642-0E5615A25DF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppzillonBanking/Screens/Locations/LocationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "customAnnotations()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B64759A8-0A05-47C8-822B-BD31DCE23253"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppzillonBanking/Screens/PreLogin/Model/LoginFormValidator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "isUserNameValid(userName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10B531C7-FC4C-4C10-AD54-A235E577AD23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppzillonBanking/Screens/PreLogin/Model/LoginFormValidator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "isPasswordvalid(password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
